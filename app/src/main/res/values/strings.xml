@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Expenses</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="expenses">Amount of expense</string>
+    <string name="category">Category</string>
+</resources>
